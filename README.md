@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=180&animation=fadeIn&section=footer&text=welcome-nl-Noh SeongBong&fontAlign=70)
+![header](https://capsule-render.vercel.app/api?type=soft&color=gradient&height=180&animation=fadeIn&section=footer&text=welcome%20Noh SeongBong&fontAlign=70)
 
 
 <!--
