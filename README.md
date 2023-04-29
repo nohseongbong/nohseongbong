@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?text=NOH SEONGBONG&animation=blink)
+![header](https://capsule-render.vercel.app/api?text="NOH SEONGBONG"&animation=blink)
 
 
 <!--
