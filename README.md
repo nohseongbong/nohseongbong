@@ -9,9 +9,13 @@
    <img src="https://img.shields.io/badge/TypeScript-ffffff?style=flat-square&logo=TypeScript&logoColor=3178C6"/>
 </p>
 
-  <img src="https://github-readme-stats-ivory-nine-14.vercel.app/api/top-langs/?username=nohseongbong&exclude_repo=nohseongbong.github.io&layout=compact&theme=tokyonight" />
-  <img src="https://github-readme-stats-ivory-nine-14.vercel.app/api?username=nohseongbong&theme=radical&show_icons=true" width="42%" />
- 
+  <img src="https://github-readme-stats-kkswnan8e-nohseongbong.vercel.app/api/top-langs/?username=nohseongbong&exclude_repo=nohseongbong.github.io&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-kkswnan8e-nohseongbong.vercel.app/api?username=nohseongbong&theme=radical&show_icons=true" width="42%" />
+
+ <p align="center">
+<img height="180em" src="github-readme-stats-kkswnan8e-nohseongbong.vercel.app/api?username=DevJaewoo&show_icons=true" />
+<img height="180em" src="github-readme-stats-kkswnan8e-nohseongbong.vercel.app/api/top-langs/?username=DevJaewoo&layout=compact&hide=jupyter%20notebook" />
+</p>
 <!--
 **nohseongbong/nohseongbong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
